@@ -4,7 +4,7 @@
             "outputFile": "/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
             "map": [
                 {
-                    "source": "/home/lokesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5b0e40ac142f9b6526c93343d4e4146c/res/values-v13/values-v13.xml",
+                    "source": "/home/lokesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/28fe3f463b00ebe82dc017eee274c820/res/values-v13/values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
