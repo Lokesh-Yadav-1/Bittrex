@@ -1,4 +1,4 @@
-#Fri Mar 02 19:35:33 IST 2018
-base.0=/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/build/intermediates/transforms/dexMerger/debug/26
+#Sat Mar 03 21:46:24 IST 2018
+base.0=/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/build/intermediates/transforms/dexMerger/debug/83
 path.0=classes.dex
 renamed.0=classes.dex

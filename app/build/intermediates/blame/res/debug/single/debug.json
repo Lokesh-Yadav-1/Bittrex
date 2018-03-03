@@ -920,6 +920,10 @@
         "source": "/home/lokesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/28fe3f463b00ebe82dc017eee274c820/res/anim/abc_slide_out_top.xml"
     },
     {
+        "merged": "/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/res/layout/list_item.xml"
+    },
+    {
         "merged": "/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/home/lokesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0ac8957a98e5ed4458b99a8dbdf67f93/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
@@ -1286,6 +1290,10 @@
     {
         "merged": "/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
         "source": "/home/lokesh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5cb0239b694670b3f6658d514bab4e29/res/drawable-xhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/build/intermediates/res/merged/debug/layout_fragment_account.xml.flat",
+        "source": "/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/res/layout/fragment_account.xml"
     },
     {
         "merged": "/home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",

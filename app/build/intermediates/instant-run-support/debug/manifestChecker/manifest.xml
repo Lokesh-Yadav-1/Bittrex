@@ -16,8 +16,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.Design.NoActionBar" >
-        <activity android:name="com.example.lokesh.bittrexcryptoexchange.MainActivity" >
+        android:theme="@style/MyMaterialTheme" >
+        <activity
+            android:name="com.example.lokesh.bittrexcryptoexchange.MainActivity"
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
