@@ -11,7 +11,7 @@
     android:padding="0dp"
     tools:context="com.example.lokesh.bittrexcryptoexchange.MainActivity"
     android:weightSum="10">
-
+<!--
         <android.support.design.widget.AppBarLayout
             android:id="@+id/appbar"
             android:layout_width="match_parent"
@@ -39,6 +39,8 @@
 
 
             </android.support.design.widget.TabLayout>
+
+
         </android.support.design.widget.AppBarLayout>
 
         <android.support.v4.view.ViewPager
@@ -48,6 +50,23 @@
             app:layout_behavior="@string/appbar_scrolling_view_behavior"
             android:layout_weight="7.6"
             />
+
+
+        <fragment
+            android:id="@+id/marketFragment"
+            android:layout_width="match_parent"
+            android:layout_height="0sp"
+            class="com.example.lokesh.bittrexcryptoexchange.MarketFragment"
+            android:layout_weight="9.2"
+            />
+-->
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="9.2"/>
+
 
         <LinearLayout
         android:id="@+id/linearlayoutbottom"
@@ -61,6 +80,7 @@
         android:layout_weight="0.8"
         >
         <Button
+            android:id="@+id/marketButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Market"
@@ -68,7 +88,7 @@
             android:background="@color/colorPrimaryDark"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
         <Button
-
+            android:id="@+id/accountButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Account"
