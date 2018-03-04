@@ -28,8 +28,9 @@ public class MainActivity extends AppCompatActivity {
     }
     private void setupViewPager(ViewPager viewPager){
         SectionsPageAdapter adapter = new SectionsPageAdapter((getSupportFragmentManager()));
-        adapter.addFragment(new MarketFragment(),"Market");
-        adapter.addFragment(new AccountFragment(),"Account" );
+        adapter.addFragment(new BitcoinFragment(),"Bitcoin Market");
+        adapter.addFragment(new ETHFragment(),"Ether Market");
+        adapter.addFragment(new USDFragment(),"USD Market");
         viewPager.setAdapter(adapter);
     }
 }

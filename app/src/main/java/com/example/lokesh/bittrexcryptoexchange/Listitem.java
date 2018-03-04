@@ -5,19 +5,24 @@ package com.example.lokesh.bittrexcryptoexchange;
  */
 
 public class Listitem {
-    private String head;
-    private String description;
+    private String CoinName;
+    private String price;
+    private String change;
 
-    public Listitem(String head, String description) {
-        this.head = head;
-        this.description = description;
+    public Listitem(String CoinName, String price,String change) {
+        this.CoinName = CoinName;
+        this.price = price;
+        this.change = change;
     }
 
-    public String getHead() {
-        return head;
+    public String getCoinName() {
+        return CoinName;
     }
 
-    public String getDescription() {
-        return description;
+    public String getChange() {
+        return change;
+    }
+    public String getPrice() {
+        return price;
     }
 }

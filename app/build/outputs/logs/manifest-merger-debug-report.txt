@@ -79,7 +79,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/lokesh/.gradle/caches/t
 	android:allowBackup
 		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:11:9-47
+		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:11:9-52
 activity#com.example.lokesh.bittrexcryptoexchange.MainActivity
 ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:label
