@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.example.lokesh.bittrexcryptoexchange.CompletedFragment"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filter"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/colorAccent"
+        android:layout_marginTop="17dp"></View>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="22dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total=10"
+            android:layout_marginTop="0dp"/>
+        <CheckBox
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:textAlignment="center"
+            android:text="BUY"
+            android:layout_marginLeft="100dp"
+            android:checked="false"/>
+        <CheckBox
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:textAlignment="center"
+            android:text="SELL"
+            android:layout_marginLeft="60dp"
+            android:checked="false"/>
+
+    </LinearLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/completed_recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp">
+
+    </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>

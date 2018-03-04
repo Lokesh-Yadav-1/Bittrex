@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#464643</color>
+    <color name="colorPrimaryDark">#424941</color>
+    <color name="colorAccent">#b1d910</color>
+    <color name="backgroundcolor">#424242</color>
+    <color name="textcolor">#FAFAFA</color>
+    <color name="BUY">#f789ed0d</color>
+    <color name="SELL">#42e216</color>
+    <color name="BUYcolor">#d42459</color>
+    <color name="SELLcolor">#c13222</color>
+    <color name="COSTcolor">#1ef16b</color>
+    <color name="PRICEcolor">#c13222</color>
+
+</resources>
+
