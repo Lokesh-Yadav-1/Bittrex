@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:design:26.1.0] /home/lokesh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5cb0239b694670b3f6658d514bab4e29/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/lokesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/28fe3f463b00ebe82dc017eee274c820/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/lokesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d0a17f7336cb262d1374955bb07ace28/AndroidManifest.xml:2:1-11:12
@@ -19,25 +19,25 @@ MERGED from [com.android.support:support-media-compat:26.1.0] /home/lokesh/.grad
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/lokesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c374ee282d9873f08df7a4f6decc99ee/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/lokesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0ac8957a98e5ed4458b99a8dbdf67f93/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/lokesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/999725ada47f0292e083d486a452924d/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:3:5-55
 		INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml
 		INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml
-		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-22:12
+		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml
-		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-22:12
+		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:5:5-20:19
+ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support:design:26.1.0] /home/lokesh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5cb0239b694670b3f6658d514bab4e29/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /home/lokesh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5cb0239b694670b3f6658d514bab4e29/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/lokesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/28fe3f463b00ebe82dc017eee274c820/AndroidManifest.xml:25:5-29:19
@@ -81,21 +81,25 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/lokesh/.gradle/caches/t
 	android:theme
 		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:11:9-52
 activity#com.example.lokesh.bittrexcryptoexchange.MainActivity
-ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:12:9-19:20
+ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:label
-		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:13:13-45
+		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:14:13-45
 	android:name
-		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:13:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.lokesh.bittrexcryptoexchange.KeysActivity
+ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml:21:19-47
 uses-sdk
 INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/lokesh/AndroidStudioProjects/Bittrexcryptoexchange/app/src/main/AndroidManifest.xml

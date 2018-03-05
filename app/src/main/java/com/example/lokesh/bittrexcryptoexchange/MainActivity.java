@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 MarketFragment marketFragment = new MarketFragment();
                 FragmentTransaction tranx = getSupportFragmentManager().beginTransaction();
                 tranx.replace(R.id.fragment_container, marketFragment);
-                tranx.addToBackStack(null);
+              //  tranx.addToBackStack(null);
                 tranx.commit();
             }
         });
@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 AccountFragment accountFragment = new AccountFragment();
                 FragmentTransaction tranx = getSupportFragmentManager().beginTransaction();
                 tranx.replace(R.id.fragment_container, accountFragment);
-                tranx.addToBackStack(null);
+              //  tranx.addToBackStack(null);
                 tranx.commit();
             }
         });
